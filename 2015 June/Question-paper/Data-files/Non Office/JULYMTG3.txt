@@ -1,0 +1,5 @@
+New tourist attraction section of website
+
+The website development team have agreed with me that we should identify popular local attractions near to the hotels in the group. We agreed that the website would have information about one local attraction in each city, so that guests could see an exciting place to visit near the hotel. The screen shot shows what the page for the London hotel might look like.
+
+

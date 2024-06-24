@@ -1,0 +1,6 @@
+HNAME	EMPCODE	CITY	MANAGER	YRSTARTED	EMAIL
+Parliament Mansions	L101	London	Lydia White	2000	lydia.white@dhg2000.co.uk
+Fragrant Harbour	H102	Hong Kong	Li Chen	2002	li.chen@dhg2000.co.uk
+Temple View	C103	Chennai	Aditi Singh	2006	aditi.singh@dhg2000.co.uk
+
+

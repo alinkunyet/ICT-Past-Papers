@@ -1,0 +1,19 @@
+Field NameDescriptionData TypeField size / LengthJustificationHNAMEHotel nameEMPCODEEmployee codeCITYLocation of hotelMANAGERManager's nameYRSTARTEDYear manager startedEMAILManager's email addressKey fieldReason for choice
+Screenshot of table design in database software:
+
+
+Screenshot of data entry form:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
