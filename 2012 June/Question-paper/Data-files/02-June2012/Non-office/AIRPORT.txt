@@ -1,0 +1,31 @@
+"CODE","CITY","COUNTRY","RUNWAY","HEIGHT","UTC","DISTANCE"
+"AMS","Amsterdam","Netherlands",3800,-3,1,370
+"ATL","Atlanta","United States",3624,313,-5,6757
+"BGI","Bridgetown","Barbados",3353,52,-4,6747
+"BHX","Birmingham","United Kingdom",2652,99,0,141
+"BKK","Bangkok","Thailand",3700,4,7,9571
+"CDG","Paris","France",3600,120,1,347
+"CGP","Chittagong","Bangladesh",3048,4,6,8236
+"CMB","Colombo","Sri Lanka",3322,9,5,8709
+"DAC","Dhaka","Bangladesh",3200,8,6,8009
+"DOH","Doha","Qatar",4572,11,3,5235
+"DUB","Dublin","Ireland",2637,74,0,450
+"DXB","Dubai","United Arab Emirates",4002,10,4,5492
+"ESR","El Salvador","Chile",2500,1597,-4,10955
+"FRA","Frankfurt","Germany",4010,111,1,652
+"GIG","Rio De Janeiro","Brazil",4010,9,-3,9247
+"HKG","Hong Kong","China",3800,6,8,9624
+"HND","Tokyo","Japan",3000,11,9,9585
+"KUL","Kuala Lumpur","Malaysia",4122,22,8,10598
+"LAX","Los Angeles","United States",3685,38,-8,8754
+"LGW","London","United Kingdom",3160,62,0,40
+"MAD","Madrid","Spain",4100,609,1,246
+"MCT","Muscat","Oman",3586,15,4,5843
+"NAS","Nassau","Bahamas",3360,5,-5,6973
+"NBO","Nairobi","Kenya",4117,1624,3,6573
+"ORD","Chicago","United States",4000,204,-6,6340
+"PEK","Beijing","China",3800,35,8,8149
+"PER","Perth","Australia",3444,20,8,14498
+"SIN","Singapore","Singapore",4023,20,8,10875
+"SJJ","Sarajevo","Bosnia and Herzegovina",2600,521,1,1637
+"SYD","Sydney","Australia",4000,6,10,17009
