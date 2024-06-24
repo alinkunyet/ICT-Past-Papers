@@ -1,0 +1,26 @@
+Boat ID,Boat Name,Berths,Cabins,Heads,Length (m),Skipper available,Style
+OC535,Nemo,12,5,5,17,TRUE,Premier Plus
+CR421,Buddy,11,5,5,16,TRUE,Premier Plus
+CR439,Taboo,12,5,5,16,TRUE,Premier Plus
+OC514,Sapphire,11,4,4,16,TRUE,Premier Plus
+SM504,Omega,12,5,5,16,TRUE,Premier Plus
+SP484,Kipling,12,4,4,15,TRUE,Premier Plus
+CR527,Sybil,12,4,4,15,TRUE,Premier Plus
+OC485,Roxy,10,5,5,15,TRUE,Premier Plus
+SA485,Utopia,10,5,5,15,TRUE,Premier
+SO483,Radley,8,3,3,15,FALSE,Premier
+SA474,Solitaire,10,4,4,14,TRUE,Premier
+WA473,Xanadu,8,3,3,14,TRUE,Premier
+SP454,Jaded,11,5,5,14,TRUE,Premier Plus
+WA441,Wild,8,3,3,14,FALSE,Premier
+WA449,Zodiac,10,4,3,14,FALSE,Classic
+SP440,Wave,8,4,4,14,FALSE,Classic
+SM423,Popeye,8,3,3,13,FALSE,Premier
+SS443,Highlander,6,3,3,13,FALSE,Classic
+SA413,Tug,8,3,2,12,FALSE,Classic
+SA393,Pearl,8,3,3,12,FALSE,Classic
+SS384,Impulse,8,4,2,12,FALSE,Premier
+SS404,Dory,10,4,2,12,TRUE,Classic
+SS444,Chancer,10,3,2,12,TRUE,Premier
+SO321,Magenta,6,2,1,10,FALSE,Classic
+SM322,Orion,6,2,1,10,FALSE,Classic
