@@ -1,0 +1,26 @@
+"CODE","COTTAGENAME","BEDROOMS","SLEEPS","STARRATING","DAILYRATE"
+"02SKY","Skye",3,7,3,£75.00
+"05SEA","Sealyham",4,9,4,£150.00
+"06LAK","Lakeland",2,5,2,£75.00
+"07IRI","Irish",4,8,1,£50.00
+"08BED","Bedlington",3,6,3,£75.00
+"09SCO","Scottish",4,8,5,£200.00
+"11BUL","Bull",3,7,2,£55.00
+"12BOR","Border",4,9,2,£100.00
+"14DAN","Dandie Dinmont",4,8,3,£130.00
+"15KER","Kerry Blue",4,8,4,£150.00
+"16WEL","Welsh",2,5,1,£25.00
+"17NOR","Norfolk",4,9,2,£100.00
+"18CES","Cesky",4,9,1,£75.00
+"19STA","Staffordshire",2,4,2,£75.00
+"20PAT","Patterdale",1,3,2,£15.00
+"21CAI","Cairn",4,9,5,£200.00
+"22AIR","Airedale",2,4,4,£100.00
+"23WIR","Wire Fox",1,2,4,£50.00
+"24YOR","Yorkshire",1,3,2,£15.00
+"25JAC","Jack Russell",1,2,4,£50.00
+"26MAN","Manchester",2,4,1,£50.00
+"27NOR","Norwich",2,4,3,£90.00
+"28AUS","Australian",1,3,3,£25.00
+"29BOS","Boston",4,8,4,£150.00
+"30JAP","Japanese",2,4,1,£40.00

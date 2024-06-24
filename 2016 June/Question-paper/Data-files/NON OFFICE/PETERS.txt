@@ -1,0 +1,8 @@
+Name:	Mr Jonathon Peters
+Address:	62 Moston Road
+Town:	Rutherstown
+Postcode:	AE3 8ER
+Telephone:	07700 900871
+Date of Birth:	01/03/1934
+
+DateCottageRental PeriodTotal Cost08/05/2016Norwich2£18029/05/2016Kerry Blue6£90019/06/2016Jack Russell14£70003/07/2016Bull11£605
