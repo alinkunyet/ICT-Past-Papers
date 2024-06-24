@@ -1,0 +1,3 @@
+"Miss","Alison","A","Black","2 Faith Drive","SOUTHLEAY","SU1 4AA","BAABA","01203 768353",£28.00,"ELEPHANT",30/4/1993 00:00:00
+"Mr","Charles","C","White","6 Love Street","SOUTHLEAY","SU3 6CC","CLAM","01203 477746",£35.00,"RHINOCEROS",12/3/1981 00:00:00
+"Mrs","Beryl","B","Brown","4 Hope Lane","SOUTHLEAY","SU2 5BB","CARLY","01203 295646",£42.00,"BUFFALO",21/7/1979 00:00:00
