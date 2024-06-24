@@ -1,0 +1,33 @@
+﻿Accommodation ref,Accommodation type,Accommodation name,Maximum guests,Accommodation rating,Location,Breakfast package
+C1,Caravan,Moonlight,6,Bronze,Somerset,FALSE
+C2,Caravan,River View,6,Silver,Cornwall,TRUE
+C3,Caravan,Scenic Vision,4,Bronze,Wiltshire,FALSE
+C4,Caravan,Clover Meadow,8,Gold,Dorset,TRUE
+C5,Caravan,River's Rest,6,Silver,Somerset,FALSE
+C6,Caravan,Mountain Trail,6,Silver,Wiltshire,FALSE
+C7,Caravan,Sea View,8,Gold,Cornwall,TRUE
+C8,Caravan,Meadow Crest,6,Silver,Cornwall,TRUE
+L1,Lodge,Meadow View,8,Gold,Wiltshire,FALSE
+L2,Lodge,Serenity,6,Silver,Somerset,TRUE
+L3,Lodge,Wilderness,6,Gold,Devon,TRUE
+L4,Lodge,Serendipity,4,Bronze,Dorset,FALSE
+L5,Lodge,Beach Retreat,8,Gold,Devon,FALSE
+L6,Lodge,Stay a While,6,Silver,Somerset,TRUE
+L7,Lodge,Free Spirit,8,Gold,Wiltshire,TRUE
+L8,Lodge,Relaxing Moments,6,Bronze,Dorset,FALSE
+S1,Shepherd's Hut,Sheep's Clover,4,Silver,Cornwall,FALSE
+S2,Shepherd's Hut,Settling Down,2,Gold,Somerset,TRUE
+S3,Shepherd's Hut,Shadow Dancing,2,Silver,Wiltshire,TRUE
+S4,Shepherd's Hut,Silver Flame,4,Bronze,Dorset,FALSE
+S5,Shepherd's Hut,Sheep's Clearing,4,Silver,Cornwall,TRUE
+S6,Shepherd's Hut,Meadow Brook,2,Gold,Somerset,FALSE
+S7,Shepherd's Hut,Shady Nook,4,Silver,Wiltshire,FALSE
+S8,Shepherd's Hut,Sunny Escape,4,Bronze,Somerset,FALSE
+Y1,Yurt,Solace,4,Silver,Devon,TRUE
+Y2,Yurt,Peace,6,Gold,Cornwall,TRUE
+Y3,Yurt,Calm,4,Bronze,Somerset,FALSE
+Y4,Yurt,Serenity,8,Gold,Dorset,FALSE
+Y5,Yurt,Tranquility,2,Gold,Cornwall,TRUE
+Y6,Yurt,Edging Closer,4,Bronze,Devon,FALSE
+Y7,Yurt,Relaxing Moments,4,Silver,Devon,TRUE
+Y8,Yurt,Rest Easy,2,Gold,Cornwall,TRUE
